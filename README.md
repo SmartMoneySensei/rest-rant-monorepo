@@ -1,5 +1,5 @@
 # Project REST-Rant
-REST-Rant is an app where users can review restaurants.
+REST-Rant is an app where users can review restaurants!
 
 ### Setup
 First, you'll need a Postgres database to connect to. Follow instructions here to setup the database and save credentials for the next step.
